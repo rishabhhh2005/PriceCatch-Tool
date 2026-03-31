@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+pricecatch.db
+*.db
+*.sqlite
+.DS_Store
+node_modules/
+.pytest_cache/
+*.egg-info/
+COPILOT_PROMPT.md
+PROJECT_OVERVIEW.md
