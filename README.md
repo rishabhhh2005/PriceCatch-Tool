@@ -265,4 +265,6 @@ Trade-off:
 * API keys cannot be recovered
 * Filters are case-sensitive
 
-  
+## Final Notes
+Project completed and ready for Entrupy evaluation.
+Made by Rishabh Puri
