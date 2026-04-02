@@ -27,7 +27,15 @@ This project focuses on building a reliable backend system with clean API design
 ```
 # 1. Create virtual environment
 python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
+
+source venv/bin/activate # Mac/Linux
+or
+venv\Scripts\activate # Windows (Command Prompt)
+or
+venv\Scripts\Activate.ps1 # Windows (PowerShell)
+or
+source venv/Scripts/activate # Windows (Git Bash)
+
 
 # 2. Install dependencies
 pip install -r requirements.txt
